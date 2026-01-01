@@ -4,17 +4,18 @@
 
 ![Shinchan Badge](https://raw.githubusercontent.com/redteamcs11/Badge/refs/heads/main/abzsy3tgy.webp)
 
-🎓 Student | 💻 Web & Mobile App Developer | 🔐 Cybersecurity Enthusiast
+🎓 Student | 🔐 Cybersecurity (red team) | 💻 Web App Developer
 
 ## 🛠️ Skills
-- Languages: HTML, CSS, JavaScript, Python
+- Languages: C, C++, HTML, CSS, JavaScript
 - Tools: Git, GitHub, VS Code, Arduino
-- Interests: AI, Robotics, Ethical Hacking
+- Interests: Ethical Hacking ,Web Dev and IT 
 
 ## 📂 Projects
-- 🔹 [Digital Clock Simulator with Arduino](link)
-- 🔹 [Portfolio Website](link)
-- 🔹 [Cybersecurity Learning Roadmap](link)
+- 🔹 [Digital Clock Simulator with Arduino]
+- 🔹 [Portfolio Website]
+- 🔹 [Library Management System (C)]
+- 🔹 [DSA (C)]
 
 ## 📫 Contact
 - Email: Waittt
