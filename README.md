@@ -17,8 +17,8 @@
 - 🔹 [Cybersecurity Learning Roadmap](link)
 
 ## 📫 Contact
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](link)
+- Email: Waittt
+- LinkedIn: Wait 
 
 
 
