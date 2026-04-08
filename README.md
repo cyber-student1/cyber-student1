@@ -7,7 +7,7 @@
 🎓 Student | 🔐 Cybersecurity (red team) | 💻 Web App Developer
 
 ## 🛠️ Skills
-- Languages: C, C++, HTML, CSS, JavaScript
+- Languages: C, C++, HTML, CSS, JavaScript, AI and ML
 - Tools: Git, GitHub, VS Code, Arduino
 - Interests: Ethical Hacking ,Web Dev and IT 
 
